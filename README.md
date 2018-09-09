@@ -5,7 +5,7 @@ Text with "Hello from Datian!", and includes button that changes the text color.
 
 ### App Walk-though
 
-<img src="blob:https://imgur.com/30c3732c-5d14-497c-bde2-28720e6b66e2" width=200><br>
+<img src="https://i.imgur.com/Nk2hVua.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
